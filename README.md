@@ -18,7 +18,7 @@ The Diabetes Predictor project aims to assist in the early detection of diabetes
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/DiabetesPredictor.git
+    git clone https://github.com/87278909/DiabetesPredictor.git
     cd DiabetesPredictor
     ```
 
